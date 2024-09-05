@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: "Poppins", system-ui;
+}
+.highlight{
+    color: hotpink;
+}
+.half-weight{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.half-weight img{
+    width: 100%;
+    
+}
+section{
+    height: 600px;
+    padding-bottom: 150px;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.btn{
+    text-decoration: none;
+    background-color: hotpink;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.frist-side{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    /* background-position: left; */
+}
+p{
+    color: dimgray;
+}
+.B-side{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+   
+}
+.third-side{
+    width: 27%;
+    float: left;
+    padding: 2%;
+    margin: %;
+}
+.third-side img{
+    width: 100%;
+}
+th,td{
+    border: 1px solid lightgray;
+    padding: 0 10px;
+}
+table{
+    border-collapse: collapse;
+}
